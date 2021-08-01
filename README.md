@@ -1,16 +1,8 @@
 # CPSC436V-Project Group 6: S&P 500 Visualization
 
 ### Name: Tianhang Cui
-#### Student Number:32968299
-#### CSID: y7r1b
-
 ### Name: Yuchen Liu
-#### Student Number: 19279158
-#### CSID: d6h0b
-
 ### Name: Emily Lian
-#### Student Number: 36054062
-#### CSID: l6q1b
 
 (This visualization should work fine as long as there is enough width for showing the whole treemap and line chart in one screen)
 
